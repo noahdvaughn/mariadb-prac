@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "mariadb": "^3.3.1",
     "ts-node": "^10.9.2"
   }
 }
